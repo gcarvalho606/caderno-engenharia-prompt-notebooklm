@@ -36,6 +36,7 @@ Prompt 4
 "Explique educação financeira para um jovem que ganha R$ 2000 e quer comprar um imóvel no futuro"
 
 Dificuldades encontradas
+
 Respostas muito genéricas em prompts simples
 Necessidade de melhorar o contexto dos prompts
 Melhores resultados com instruções mais específicas
@@ -43,24 +44,23 @@ Melhores resultados com instruções mais específicas
  Miniguia de Estudo
  
  Educação Financeira
-
 Organização do dinheiro para uso consciente e planejamento de objetivos.
 
 Reserva de Emergência
-
 Dinheiro guardado para imprevistos.
 
- Investimentos básicos
-Poupança
-Tesouro Selic
-CDB
-📚 Glossário
-Termo	Definição
-Prompt	Instrução para IA
-IA	Inteligência Artificial
-Reserva de emergência	Dinheiro para imprevistos
-Liquidez	Facilidade de resgatar dinheiro
-🚀 Prompts reutilizáveis
+Investimentos básicos
+Poupança;Tesouro Selic; CDB.
+
+Glossário
+Termo |	Definição
+Prompt	| Instrução para IA
+IA | Inteligência Artificial
+Reserva de emergência	| Dinheiro para imprevistos
+Liquidez	| Facilidade de resgatar dinheiro
+
+Prompts reutilizáveis
+
 “Explique este tema de forma simples”
 “Crie um resumo em tópicos”
 “Compare os conceitos com vantagens e desvantagens”
